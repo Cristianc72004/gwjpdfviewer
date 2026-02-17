@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
 
+<!-- ============================================
+     GWJ PDF VIEWER
+     Archivo: version.xml
+     ============================================ -->
+
 <version>
     <application>gwjPdfViewer</application>
     <type>plugins.generic</type>
